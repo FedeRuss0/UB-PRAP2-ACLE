@@ -36,4 +36,4 @@ INSERT INTO productos VALUES
   (3, 'Agua', 7, 26, 2);
 
   INSERT INTO usuarios VALUES
-  (1, 'Tivi', 'Troli', 'tivigovir@gmail.com', 'joaqui', 'pasivo');
+  (1, 'Tivi', 'Troli', 'tivigovir@gmail.com', 'megustalajapi', 'pasivo');
